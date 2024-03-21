@@ -1,4 +1,3 @@
-First book author1
-A new book here author3
-Second book author2
- 
+First book, author1
+A new book here, author3
+Second book, author2
